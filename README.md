@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
   </div>
 
-#  🙋 欢迎来到俞小坤的主页
+#  🙋 欢迎来到我的主页
 
 <table>
 <tr><td>
