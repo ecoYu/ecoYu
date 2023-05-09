@@ -13,85 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  
 
+  
+<div align="center">
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/经济学-准研究生-c32136" /></a>&emsp;
-    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/Website-网站-blue" /></a>&emsp;
-    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/经济学-准研究生-orange" /></a>&emsp;
+    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/姓名-俞小坤-yellow" /></a>&emsp;
+    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/本科-中国人民大学-c32136" /></a>&emsp;
+    <a href="https://yxkruc.com/"><img src="https://img.shields.io/badge/硕士-澳门大学-blue" /></a>&emsp;
   </div>
+  
+  
 
-#  🙋 欢迎来到我的主页
 
-<table>
-<tr><td>
+#  🙋 俞小坤的主页
 
-<!-- About me 关于我 -->
-### 🤺 About Me
-
-<p>&emsp;&emsp;Hello everyone:smirk:, My name is Yu Xiaokun and you can call me Bryce:relaxed:</p>
-<p>&emsp;&emsp;I'm a undergraduate in Renmin University of China now:heart:</p>
-<p>&emsp;&emsp;And in August, I will become the postgraduate candidate at University of Macau:v:</p>
+<p>&emsp;&emsp;Hello everyone:smirk:, My name is Yu Xiaokun.</p>
+<p>&emsp;&emsp;I'm a student in Renmin University of China now:heart:</p>
 <br>
-
-
-<tr>
-<td>
-  
-
-### 🤾‍♂️ Email
-
-- <p>yu.xiaokun@outlook.com  &emsp; 🌟🌟🌟🌟🌟 </p>
-- <p>yxk0304@ruc.edu.cn      &emsp;&emsp;&emsp; 🌟🌟🌟🌟</p>
-- <p>yu.bryce.xk@gmail.com   &emsp;&emsp;🌟🌟</p>
-<br>
-  
-
-</td></tr>
-
-<tr><td>
-
-<!-- wakatime 统计 -->
-### 📊 Schedule
-  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-  <br>
-**I'm Most Productive on Night 📅** 
-```text
-🌞 Morning                     ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
-🌆 Daytime                     █████░░░░░░░░░░░░░░░░░░░░   15.45 % 
-🌃 Evening                     ██████████░░░░░░░░░░░░░░░   33.32 % 
-🌙 Night                       ██████████████░░░░░░░░░░░   51.23 % 
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Beijing
-
-🔥 Economical Tools: 
-Python                    0 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % 
-STATA                    15 hrs 39 mins      ███████████████████████░░   92.20 % 
-R                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-
-```
-
-<!--END_SECTION:waka-->
-  
-</td></tr>
-</table>
 
 <!-- ########################################## 分割 ########################################## -->
 
