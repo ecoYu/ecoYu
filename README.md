@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
 
 
-#  🙋 俞小坤的主页
+#  🙋 一个经济学生的主页
 
 <p>&emsp;&emsp;Hello everyone:smirk:, My name is Yu Xiaokun.</p>
 <p>&emsp;&emsp;I'm a student in Renmin University of China now:heart:</p>
